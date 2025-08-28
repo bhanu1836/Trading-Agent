@@ -13,11 +13,11 @@ An intelligent Chrome extension that integrates with TradingView to provide AI-p
 ## 📸 Screenshots
 
 ### Extension Popup Interface
-![Extension Popup](screenshots/Screenshot (93).png)
+![Extension Popup](https://github.com/bhanu1836/Trading-Agent/blob/main/screenshots/Screenshot%20(93).png)
 *The main interface where users enter trading commands*
 
 ### Backend Server Running
-![Backend Server](screenshots/Screenshot (92).png)
+![Backend Server](https://github.com/bhanu1836/Trading-Agent/blob/main/screenshots/Screenshot%20(92).png)
 *Backend server successfully running and processing requests*
 
 ## 🛠️ Installation & Setup
